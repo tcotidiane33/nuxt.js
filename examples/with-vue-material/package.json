@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "nuxt": "latest",
-    "vue": "~2.4.4",
+    "vue": "~3.0.0",
     "vue-material": "beta"
   },
   "scripts": {
