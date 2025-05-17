@@ -19,7 +19,7 @@ RUN rm -rf node_modules && \
   --non-interactive \
   --production=true
 
-FROM node:alpine
+FROM node:23.11.1-alpine3.21
 
 WORKDIR /src
 
