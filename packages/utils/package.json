@@ -13,7 +13,7 @@
     "fs-extra": "^10.0.0",
     "hash-sum": "^2.0.0",
     "jiti": "^1.12.9",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "proper-lockfile": "^4.1.2",
     "semver": "^7.3.5",
     "serialize-javascript": "^6.0.0",
